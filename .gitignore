@@ -1,0 +1,6 @@
+# Comment
+__paycashe_/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/products.json
