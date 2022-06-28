@@ -1,5 +1,5 @@
 Changed Git course
 Try 2.
 # Hello World! 
-Imitating
-Changing2
+# Imitation
+# Changing2
